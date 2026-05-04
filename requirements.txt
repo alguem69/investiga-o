@@ -1,7 +1,0 @@
-streamlit
-requests
-dnspython
-python-whois
-beautifulsoup4
-geoip2
-shodan
